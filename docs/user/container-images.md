@@ -73,16 +73,16 @@ Registries: `602401143452.dkr.ecr.us-west-2.amazonaws.com`, `cr.kgateway.dev`, `
 - `nvcr.io/nvidia/cloud-native/dcgm:4.5.2-1-ubuntu22.04`
 - `nvcr.io/nvidia/cloud-native/gdrdrv:v2.5.2`
 - `nvcr.io/nvidia/cloud-native/k8s-cc-manager:v0.4.0`
-- `nvcr.io/nvidia/cloud-native/k8s-driver-manager:v0.10.0`
-- `nvcr.io/nvidia/cloud-native/k8s-mig-manager:v0.14.0`
+- `nvcr.io/nvidia/cloud-native/k8s-driver-manager:v0.11.0`
+- `nvcr.io/nvidia/cloud-native/k8s-mig-manager:v0.14.2`
 - `nvcr.io/nvidia/cloud-native/nvidia-fs:2.27.3`
 - `nvcr.io/nvidia/cloud-native/nvidia-sandbox-device-plugin:v0.0.3`
 - `nvcr.io/nvidia/cloud-native/vgpu-device-manager:v0.4.2`
 - `nvcr.io/nvidia/driver:580.105.08`
-- `nvcr.io/nvidia/gpu-operator:v26.3.1`
-- `nvcr.io/nvidia/k8s-device-plugin:v0.19.0`
-- `nvcr.io/nvidia/k8s/container-toolkit:v1.19.0`
-- `nvcr.io/nvidia/k8s/dcgm-exporter:4.5.1-4.8.0-distroless`
+- `nvcr.io/nvidia/gpu-operator:v26.3.2`
+- `nvcr.io/nvidia/k8s-device-plugin:v0.19.2`
+- `nvcr.io/nvidia/k8s/container-toolkit:v1.19.1`
+- `nvcr.io/nvidia/k8s/dcgm-exporter:4.5.3-4.8.2-distroless`
 - `nvcr.io/nvidia/kubevirt-gpu-device-plugin:v1.5.0`
 - `vgpu-manager`
 
